@@ -1,2 +1,2 @@
-# reactive-java-workshop
+# Reactive Programming with Java
 Reactive programming with Java
